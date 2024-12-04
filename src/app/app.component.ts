@@ -10,7 +10,6 @@ import { RouterModule} from '@angular/router';
 export class AppComponent {
   title = 'ssg-csr';
   constructor() {
-    // Changing does not trigger the page reload
     console.log('App Component');
   }
 }

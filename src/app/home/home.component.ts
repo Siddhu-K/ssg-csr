@@ -8,7 +8,6 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
   constructor() {
-    // Changing does not trigger the page reload
     console.log('Home Component');
   }
 }

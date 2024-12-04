@@ -9,7 +9,6 @@ import { RouterModule  } from '@angular/router';
 })
 export class TestComponent {
   constructor() {
-    // Changing does not trigger the page reload
     console.log('Test Component');
   }
 }
